@@ -5,19 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <section class="header">
+    <h1>Jessi´s Party</h1>
+    <h3>Este año mi cumple se dividirá en dos celebraciones </h3>
+    <div className="texto"> 
+    <p>Puedes acompañarme a un Scape Room, puedes brindar conmigo en CheBonche </p>
+    <p>¡O mejor aún, puedes venir a las dos!  </p>
+    </div>
+    <a className="btn-bgstroke" href=''>Juego de Escape </a>
+    <a className="btn-bgstroke" href=''>Che Bonche </a>
+    <p className='PD'>Para organizarme, te pido te anotes a dónde quieres ir </p>
+      </section>
+        </header>
     </div>
   );
 }
