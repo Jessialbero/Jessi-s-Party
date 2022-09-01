@@ -15,7 +15,7 @@ function App() {
         </div>
                 <a className="btn-bgstroke" href='https://forms.gle/6MLhXb8dgoEc7HRa7'>Juego de Escape </a>
                 <a className="btn-bgstroke" href='https://forms.gle/aGxdPk5Kgbh9McN19'>Che Bonche </a>
-                  <p className='PD'>Para organizarme, te pido te anotes a dónde quieres ir </p>
+                  <p className='PD'>Por fa selecciona a dónde me acompañarás </p>
         </section>
       </header>
     </div>
