@@ -4,6 +4,8 @@
 
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
 
+
+
 .App-header {
   background-color: #9720bf;
   min-height: 100vh;
@@ -46,8 +48,8 @@ p {
 }
 
 .header {
-  width: 100%;
-  padding:60px 0;
+  width: 90%;
+  padding:40px 0;
   text-align: center;
   background: #33cccc;
   color: white;
